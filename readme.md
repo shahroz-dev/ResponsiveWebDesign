@@ -1,2 +1,2 @@
-![DesktopScreenShot](/ResponsiveWebPage/Desktop.png?raw=true "Desktop")
-![MobileScreenShot](/ResponsiveWebPage/Mobile.png?raw=true "Mobile")
+![Mobile](https://user-images.githubusercontent.com/49843166/111075120-417ee580-8508-11eb-9901-9495b2a0f917.png)
+![Desktop](https://user-images.githubusercontent.com/49843166/111075126-4479d600-8508-11eb-9d28-560b6949cb46.png)
